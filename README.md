@@ -56,4 +56,5 @@ Hey Coders, Its All About Python Preperation.
 1. **Flexibility**: This roadmap is modular. You can adjust weeks based on your pace or focus areas.
 2. **Progressive Learning**: Projects and skills grow in complexity to ensure consistent growth.
 3. **Portfolio Building**: Each project adds to your portfolio, showcasing diverse skills.
+# Python Playlist (In Kannada) : [https://www.youtube.com/watch?v=RbxHZwFtRT4&list=PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR](https://youtube.com/playlist?list=PLlGueSbLhZoBRnTsGiDJeTXuQCALOTN07&si=eXHs9m95YFKLNagT)
 
